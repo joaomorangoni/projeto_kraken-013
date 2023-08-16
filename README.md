@@ -1,2 +1,1 @@
-# Projeto_Kraken-013
-Projeto do foguete para a matéria APW
+# https://joaomorangoni.github.io/projeto_kraken-013
